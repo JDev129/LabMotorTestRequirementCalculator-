@@ -1,0 +1,12 @@
+C:\CWF\Applications\Portal\ConsoleInterpreter\bin\Debug\netstandard2.0\ConsoleInterpreter.deps.json
+C:\CWF\Applications\Portal\ConsoleInterpreter\bin\Debug\netstandard2.0\ConsoleInterpreter.dll
+C:\CWF\Applications\Portal\ConsoleInterpreter\bin\Debug\netstandard2.0\ConsoleInterpreter.pdb
+C:\CWF\Applications\Portal\ConsoleInterpreter\bin\Debug\netstandard2.0\Commons.dll
+C:\CWF\Applications\Portal\ConsoleInterpreter\bin\Debug\netstandard2.0\Commons.pdb
+C:\CWF\Applications\Portal\ConsoleInterpreter\obj\Debug\netstandard2.0\ConsoleInterpreter.csproj.CoreCompileInputs.cache
+C:\CWF\Applications\Portal\ConsoleInterpreter\obj\Debug\netstandard2.0\ConsoleInterpreter.AssemblyInfoInputs.cache
+C:\CWF\Applications\Portal\ConsoleInterpreter\obj\Debug\netstandard2.0\ConsoleInterpreter.AssemblyInfo.cs
+C:\CWF\Applications\Portal\ConsoleInterpreter\obj\Debug\netstandard2.0\ConsoleInterpreter.csproj.CopyComplete
+C:\CWF\Applications\Portal\ConsoleInterpreter\obj\Debug\netstandard2.0\ConsoleInterpreter.dll
+C:\CWF\Applications\Portal\ConsoleInterpreter\obj\Debug\netstandard2.0\ConsoleInterpreter.pdb
+C:\CWF\Applications\Portal\ConsoleInterpreter\obj\Debug\netstandard2.0\ConsoleInterpreter.csprojAssemblyReference.cache
