@@ -10,7 +10,7 @@ Since the original solution, I have grown in my understanding of the C# language
 
  Also, as a fun exercise I’ve also added a .NET console application 'LabMotorTest' which relys on the library 'ConsoleInterpreter' as the user interface for retrieving the required parameters for the calculation and displaying the results. Although obviously a web interface is a more logical choice, I’ll leave that piece for you. Take a look at the class ConsolePromptValidation.cs inside this library. In it I force the console input to pass the validation function provided in the implementation of the IConsoleInputValidator.cs interface given to the constructor of ConsolePromptValidation.cs. Essentially this object places unending console.Read()'s on the console until the user provides a valid value defined by the creator of the implementation of the interface. It then becomes the callers' responsibility to properly communicate the possible valid options to the end user inside of the imputPrompt getter property defined on corresponding class implementing the IConsoleInputValidator.cs interface.
 
-Take a look, try it out, make a branch. Let me know if you have any questions or input.
+Take a look, try it out, make a branch, see if you can make any sense of it. Let me know if you have any questions or input.
 
 Thanks,
 Jeremy Christman
