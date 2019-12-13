@@ -1,13 +1,18 @@
-﻿using Commons;
+using Commons;
 using MotorTests.Domain.Entities;
 using MotorTests.Domain.MotorTests;
 using System;
 using System.Collections.Generic;
 
 namespace MotorTests.Domain
-{// This class solves the test requirements for a certified electric motor based on the 8 required attributes below 
- // (Speed, TheVoltage, Frequency, Phase, Overload, Cooling, DutyCycle, StartingSpeed)
- // (defined in the Lab_Testing_Rules.xlsx spreadsheet  found inside 'ProjectRequirements' of the 'Documentation' directory)
+{// This class solves the test requirements for a certified electric motor 
+ // based on the 8 required attributes (Speed, TheVoltage, Frequency, 
+ // Phase, Overload, Cooling, DutyCycle, StartingSpeed) *defined in 
+ // the Lab_Testing_Rules.xlsx spreadsheet found inside 'ProjectRequirements' 
+ // of the 'Documentation' directory.
+ // The results are as many as 11 possible test (or 22 for dual speed) to be conducted 
+ // on the motor with the charateristics that you input. The RequiredTests function
+ // is the heart of the solution of this algorith.
     public class TestsCalculation
     {
         public CertifiableMotor ValidatedMotor { get; }
