@@ -1,0 +1,9 @@
+C:\CWF\Applications\Portal\Commons\bin\Debug\netstandard2.0\Commons.deps.json
+C:\CWF\Applications\Portal\Commons\bin\Debug\netstandard2.0\Commons.dll
+C:\CWF\Applications\Portal\Commons\bin\Debug\netstandard2.0\Commons.pdb
+C:\CWF\Applications\Portal\Commons\obj\Debug\netstandard2.0\Commons.csproj.CoreCompileInputs.cache
+C:\CWF\Applications\Portal\Commons\obj\Debug\netstandard2.0\Commons.AssemblyInfoInputs.cache
+C:\CWF\Applications\Portal\Commons\obj\Debug\netstandard2.0\Commons.AssemblyInfo.cs
+C:\CWF\Applications\Portal\Commons\obj\Debug\netstandard2.0\Commons.dll
+C:\CWF\Applications\Portal\Commons\obj\Debug\netstandard2.0\Commons.pdb
+C:\CWF\Applications\Portal\Commons\obj\Debug\netstandard2.0\Commons.csprojAssemblyReference.cache

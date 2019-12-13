@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "LabMotorTest/1.0.0": {
+        "dependencies": {
+          "Commons": "1.0.0",
+          "ConsoleInterpreter": "1.0.0",
+          "LabCertification": "1.0.0"
+        },
+        "runtime": {
+          "LabMotorTest.dll": {}
+        }
+      },
+      "Commons/1.0.0": {
+        "runtime": {
+          "Commons.dll": {}
+        }
+      },
+      "ConsoleInterpreter/1.0.0": {
+        "dependencies": {
+          "Commons": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleInterpreter.dll": {}
+        }
+      },
+      "LabCertification/1.0.0": {
+        "dependencies": {
+          "Commons": "1.0.0"
+        },
+        "runtime": {
+          "LabCertification.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabMotorTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Commons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleInterpreter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LabCertification/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

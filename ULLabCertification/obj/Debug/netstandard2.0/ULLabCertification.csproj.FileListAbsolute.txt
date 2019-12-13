@@ -1,0 +1,12 @@
+C:\CWF\Applications\Portal\ULLabCertification\obj\Debug\netstandard2.0\ULLabCertification.csproj.CoreCompileInputs.cache
+C:\CWF\Applications\Portal\ULLabCertification\obj\Debug\netstandard2.0\ULLabCertification.AssemblyInfoInputs.cache
+C:\CWF\Applications\Portal\ULLabCertification\obj\Debug\netstandard2.0\ULLabCertification.AssemblyInfo.cs
+C:\CWF\Applications\Portal\ULLabCertification\bin\Debug\netstandard2.0\ULLabCertification.deps.json
+C:\CWF\Applications\Portal\ULLabCertification\bin\Debug\netstandard2.0\ULLabCertification.dll
+C:\CWF\Applications\Portal\ULLabCertification\bin\Debug\netstandard2.0\ULLabCertification.pdb
+C:\CWF\Applications\Portal\ULLabCertification\bin\Debug\netstandard2.0\Commons.dll
+C:\CWF\Applications\Portal\ULLabCertification\bin\Debug\netstandard2.0\Commons.pdb
+C:\CWF\Applications\Portal\ULLabCertification\obj\Debug\netstandard2.0\ULLabCertification.csprojAssemblyReference.cache
+C:\CWF\Applications\Portal\ULLabCertification\obj\Debug\netstandard2.0\ULLabCertification.csproj.CopyComplete
+C:\CWF\Applications\Portal\ULLabCertification\obj\Debug\netstandard2.0\ULLabCertification.dll
+C:\CWF\Applications\Portal\ULLabCertification\obj\Debug\netstandard2.0\ULLabCertification.pdb
