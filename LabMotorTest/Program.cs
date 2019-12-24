@@ -26,9 +26,9 @@ namespace LabMotorTest
         {
 
             var OkToContinue = true;
+            WriteNewLine("  Welcome to the Lab Test Requirements Calculator ");
             while (OkToContinue)
             {
-                WriteNewLine("  Welcome to the Lab Test Requirements Calculator ");
                 WriteNewLine("  Please provide the required parameters of the specified electric motor. ".NewLine());
                 WriteNewLine("  Calculate Test Requirements.                    :  Electric Motor Characteristics ".NewLine());
                 WriteNewLine("  Please preform the following tests to meet certification requirements. ".NewLine().NewLine() + 
